@@ -1,6 +1,6 @@
 # Etch-a-sketch-odin
 odin
-live demo: 
+live demo: https://joyce-abboud.github.io/Etch-a-sketch-odin/
 # Etch-a-Sketch
 
 A browser-based Etch-a-Sketch project built with **HTML, CSS, and JavaScript** as part of [The Odin Project](https://www.theodinproject.com/).
